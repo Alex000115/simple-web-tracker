@@ -1,0 +1,5 @@
+Ideas
+
+- Track daily tasks
+- Learn HTML
+- Learn JavaScript
